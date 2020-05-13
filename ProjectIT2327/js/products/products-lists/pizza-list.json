@@ -1,0 +1,108 @@
+[
+  {
+    "Id": "35ecbdd6-38c8-4a60-b08a-d21f56365de5",
+    "Photo": "images/products-images/pizza/DSC_8740-002-Pitstsa-4-syra.jpg",
+    "Title": "Pizza 4 cheese",
+    "Composition": [
+      "Camembert cheese",
+      "mozzarella cheese",
+      "Chees Feta",
+      "CHEESE DORBLU",
+      "greenery"
+    ],
+    "Price": 10,
+    "Weight": 400,
+    "Product_id": "pizza-1"
+  },
+  {
+    "Id": "ca225723-0f29-420b-be16-ebda6f810ee1",
+    "Photo": "images/products-images/pizza/DhZBDqqwZzgTSYudncCZVQjOHHfQh9cs.jpg",
+    "Title": "bavarian pizza with sweet pepper",
+    "Composition": [
+      "red bell pepper",
+      "mozzarella cheese",
+      "corn",
+      "bavarian sausages",
+      "pickles",
+      "meat",
+      "Chees Feta"
+    ],
+    "Price": 11,
+    "Weight": 420,
+    "Product_id": "pizza-2"
+  },
+  {
+    "Id": "d1488b3e-c1e6-461a-9772-f1f3894a8c1f",
+    "Photo": "images/products-images/pizza/_1147-165.jpg",
+    "Title": "Mushroom pizza with sausage and sauce",
+    "Composition": [
+      "Basil",
+      "mushrooms",
+      "black olives",
+      "smoked sausage",
+      "Russian cheese",
+      "mushroom sauce"
+    ],
+    "Price": 8,
+    "Weight": 350,
+    "Product_id": "pizza-3"
+  },
+  {
+    "Id": "f48d5ded-b56c-426a-b49b-1d5d6ded0733",
+    "Photo": "images/products-images/pizza/chetyre-syra.jpg",
+    "Title": "4 cheeses with arugula",
+    "Composition": [
+      "Arugula",
+      "Camembert cheese",
+      "mozzarella cheese",
+      "Chees Feta",
+      "CHEESE DORBLU"
+    ],
+    "Price": 7,
+    "Weight": 350,
+    "Product_id": "pizza-4"
+  },
+  {
+    "Id": "6a391c32-bef6-4ef3-8fc2-68cc88de1825",
+    "Photo": "images/products-images/pizza/depositphotos_13341738-stock-photo-pizza-on-a-white-background.jpg",
+    "Title": "Delicious pizza",
+    "Composition": [
+      "sausages",
+      "olives",
+      "mozzarella cheese"
+    ],
+    "Price": 9,
+    "Weight": 380,
+    "Product_id": "pizza-5"
+  },
+  {
+    "Id": "5619fa20-b588-4ed8-8d0d-a22f9cb338a4",
+    "Photo": "images/products-images/pizza/margarita0_1553587853.jpg",
+    "Title": "Margarita",
+    "Composition": [
+      "tomatoes",
+      "mozzarella cheese",
+      "parmesan cheese",
+      "sweet tomato sauce"
+    ],
+    "Price": 6,
+    "Weight": 370,
+    "Product_id": "pizza-6"
+  },
+  {
+    "Id": "73947c73-50c8-4ef0-b709-81b1cc8cb2b8",
+    "Photo": "images/products-images/pizza/pizza-margarita.jpg",
+    "Title": "Margarita +",
+    "Composition": [
+      "Basil",
+      "sweet tomato sauce",
+      "tomatoes",
+      "mozzarella cheese",
+      "parmesan cheese",
+      "Russian cheese"
+    ],
+    "Price": 8,
+    "Weight": 370,
+    "Product_id": "pizza-7"
+  }
+]

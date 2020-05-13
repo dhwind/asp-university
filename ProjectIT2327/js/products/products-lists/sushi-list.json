@@ -1,0 +1,95 @@
+[
+  {
+    "Id": "a4aa0faf-3966-4725-87ab-16e26f8b5c98",
+    "Photo": "images/products-images/sushi/izumidai.png",
+    "Title": "Izumidai",
+    "Composition": [
+      "Perch",
+      "Rice"
+    ],
+    "Price": 5,
+    "Weight": 150,
+    "Product_id": "sushi-1"
+  },
+  {
+    "Id": "bdbebe83-ad59-46e2-96d7-26ddcca16073",
+    "Photo": "images/products-images/sushi/hiashi.png",
+    "Title": "Hiashi",
+    "Composition": [
+      "Hiashi wakame",
+      "peanut sauce",
+      "nori",
+      "rice"
+    ],
+    "Price": 4,
+    "Weight": 200,
+    "Product_id": "sushi-2"
+  },
+  {
+    "Id": "b35e1a00-047c-46df-919d-378221302fea",
+    "Photo": "images/products-images/sushi/salmon-roll.jpg",
+    "Title": "salmon roll",
+    "Composition": [
+      "Salmon",
+      "Philadelphia cheese",
+      "cucumber",
+      "green onion",
+      "rice",
+      "nori"
+    ],
+    "Price": 8,
+    "Weight": 220,
+    "Product_id": "sushi-3"
+  },
+  {
+    "Id": "1da71db4-c86f-4367-92fb-34d185c90fc6",
+    "Photo": "images/products-images/sushi/syake.png",
+    "Title": "Syake",
+    "Composition": [
+      "Salmon",
+      "RICE"
+    ],
+    "Price": 6,
+    "Weight": 150,
+    "Product_id": "sushi-4"
+  },
+  {
+    "Id": "8c8edd76-2c88-4499-a819-334b88e097a1",
+    "Photo": "images/products-images/sushi/tuna_sushi.jpg",
+    "Title": "Tuna sushi",
+    "Composition": [
+      "tuna",
+      "Rice"
+    ],
+    "Price": 7,
+    "Weight": 200,
+    "Product_id": "sushi-5"
+  },
+  {
+    "Id": "7f900f8d-1481-47b2-ae00-cda822d9eced",
+    "Photo": "images/products-images/sushi/shrimp_sushi.jpg",
+    "Title": "Shrimp sushi",
+    "Composition": [
+      "Shrimp",
+      "Rice"
+    ],
+    "Price": 5,
+    "Weight": 180,
+    "Product_id": "sushi-6"
+  },
+  {
+    "Id": "61a71f7f-0e98-4345-87c4-df0a2c5cdb47",
+    "Photo": "images/products-images/sushi/gunkan_salmon.jpg",
+    "Title": "Gunkan salmon sushi",
+    "Composition": [
+      "salmon",
+      "rice",
+      "caviar masago",
+      "mayo",
+      "nori"
+    ],
+    "Price": 9,
+    "Weight": 200,
+    "Product_id": "sushi-7"
+  }
+]

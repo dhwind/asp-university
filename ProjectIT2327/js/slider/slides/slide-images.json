@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "eb4eea84-bbd5-4a1b-a2ee-c43156ff2da0",
+    "Url": "images/slider/sushi-background.jpg",
+    "Slide_id": "slider-btn-1"
+  },
+  {
+    "Id": "659e0734-bcdf-4909-b103-addb91cf6b9c",
+    "Url": "images/slider/soup-background.jpg",
+    "Slide_id": "slider-btn-2"
+  },
+  {
+    "Id": "9ef6caed-d145-44a1-b6e4-acdd80ad4832",
+    "Url": "images/slider/pizza-background.jpg",
+    "Slide_id": "slider-btn-3"
+  },
+  {
+    "Id": "8666a7a1-79a0-4cca-9c6d-ca4804b51e6a",
+    "Url": "images/slider/burger-background.jpg",
+    "Slide_id": "slider-btn-4"
+  }
+]
